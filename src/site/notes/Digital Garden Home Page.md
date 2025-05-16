@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden-home-page/","title":"My First Note","tags":["garden","notes","gardenEntry"]}
+{"dg-publish":true,"permalink":"/digital-garden-home-page/","title":"Welcome to The Garden","tags":["garden","notes","gardenEntry"]}
 ---
 
 
