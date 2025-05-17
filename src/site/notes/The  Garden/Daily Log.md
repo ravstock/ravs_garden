@@ -12,7 +12,8 @@
 
 - wrote place holder text for website pages
 - brain stormed some fun gamification ideas for website visitors
-- continued the :::dg-hide mnos::: meeting
+- continued the <span class="redacted">mnos</span> meeting
+
 
 ---
 
