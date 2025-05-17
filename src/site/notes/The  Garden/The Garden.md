@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-garden/the-garden/","title":"Welcome to The Garden","tags":["garden","notes"]}
+{"dg-publish":true,"permalink":"/the-garden/the-garden/","title":"Welcome to The Garden","tags":["garden","notes","gardenEntry"]}
 ---
 
 
