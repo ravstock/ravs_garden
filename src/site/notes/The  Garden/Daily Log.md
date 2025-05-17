@@ -6,6 +6,7 @@
 # Daily Log
 
 
+ it's publishing fine or else this wouldn't be here
 ---
 
 # 2025-05-17
