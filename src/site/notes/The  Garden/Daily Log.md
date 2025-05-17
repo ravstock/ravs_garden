@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-garden/daily-log/","title":"<% tp.file.title %>","tags":["garden","timeline","dailylog"]}
+{"dg-publish":true,"permalink":"/the-garden/daily-log/","title":"Daily Log","tags":["garden","timeline","dailylog"]}
 ---
 
 
