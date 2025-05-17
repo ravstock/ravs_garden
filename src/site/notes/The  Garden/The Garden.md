@@ -4,3 +4,5 @@
 
 
 This is where the magic happens
+
+[[The  Garden/Daily Log\|Daily Log]]here
