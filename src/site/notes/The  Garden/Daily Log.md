@@ -9,7 +9,8 @@
 # 2025-05-20
 
 - set up a sync between iPhone drafts app and pc obsidian vault via icloud and freesync
-
+- set up ai assistant to import docx, pdf, audio, epub, txt and rtf files into md and add to personal ai knowledge assistant
+- 
 ---
 
 # 2025-05-18
