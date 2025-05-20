@@ -6,7 +6,15 @@
 # Daily Log
 
 
- it's publishing fine or else this wouldn't be here
+# 2025-05-20
+
+- set up a sync between iPhone drafts app and pc obsidian vault via icloud and freesync
+
+---
+
+# 2025-05-18
+
+- continued with the Mnos meet from Max's POV
 ---
 
 # 2025-05-17
