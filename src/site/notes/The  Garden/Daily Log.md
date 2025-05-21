@@ -5,6 +5,12 @@
 
 # Daily Log
 
+# 2025-05-21
+
+- Converted paid, cloud-based password app to a free local app
+- Met with writing coach, pushing for mid point over next 4-5 weeks
+
+------
 
 # 2025-05-20
 
