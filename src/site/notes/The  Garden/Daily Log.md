@@ -5,6 +5,13 @@
 
 # Daily Log
 
+# 2025-05-22
+
+- Added about page to ravstockton.com/about
+- added a easter egg page fucked if I know where though
+- wrote a mini-manifesto 
+---
+
 # 2025-05-21
 
 - Converted paid, cloud-based password app to a free local app
