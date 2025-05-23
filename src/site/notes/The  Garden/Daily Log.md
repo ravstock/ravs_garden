@@ -11,6 +11,9 @@
 - started converting all my google authentication codes to Raivo
 - Set up an obsidian (PC)-syncthing-mobius-obsidian (iphone) workflow that auto-syncs notes
 - Set up a daily note to auto open and sync in obsidian to mimic the speed and ease of use of drafts (would prefer new note each time)
+
+---
+
 # 2025-05-22
 
 - Added about page to ravstockton.com/about
