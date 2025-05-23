@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/the-garden/2-fa/","title":"<% tp.file.title %>","tags":["garden"]}
+{"dg-publish":true,"permalink":"/the-garden/2-fa/","title":"2FA","tags":["garden"]}
 ---
 
 
-#  Updating 2FA
+# Updating 2FA
 
 One of the first and most painful things to do when extracting yourself from the big tech is to transfer all your 2FA passwords. 
 
