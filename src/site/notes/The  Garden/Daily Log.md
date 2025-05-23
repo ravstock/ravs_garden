@@ -19,6 +19,7 @@
 - Added about page to ravstockton.com/about
 - added a easter egg page fucked if I know where though
 - wrote a mini-manifesto 
+- started moving and updating passwords from 1password to KeepassXC
 ---
 
 # 2025-05-21
