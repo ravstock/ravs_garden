@@ -8,7 +8,7 @@
 # 2025-05-23
 
 - Made a good start on outlining the book as far as midpoint. 
-- started converting all my google authentication codes to Raivo
+- started converting all my google authentication codes to Raivo which [serrrks](https://garden.ravstockton.com/the-garden/2-fa)
 - Set up an obsidian (PC)-syncthing-mobius-obsidian (iphone) workflow that auto-syncs notes
 - Set up a daily note to auto open and sync in obsidian to mimic the speed and ease of use of drafts (would prefer new note each time)
 
