@@ -5,6 +5,14 @@
 
 # Daily Log
 
+---
+
+# 2025-05-24
+
+- Solved some harder problems about MK's past, what to reveal about, how to reveal it, and where it takes her next. Positive progress. Now to write it. 
+- Started thinking about having different regions of the garden related to different moods and life stuff - like glade, swamp, forest etc. 
+- Decided that for hard copy I want a single journal for everything not multiple. 
+- iPhone to PC obsidian 2-way sync over local network seems to be working really well. 
 # 2025-05-23
 
 - Made a good start on outlining the book as far as midpoint. 
