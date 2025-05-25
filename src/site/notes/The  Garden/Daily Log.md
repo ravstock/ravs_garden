@@ -1,9 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/the-garden/daily-log/","title":"Daily Log","tags":["garden","timeline","dailylog"]}
+{"dg-publish":true,"permalink":"/the-garden/daily-log/","title":"Daily Log","tags":["garden","dailylog"]}
 ---
 
 
 # Daily Log
+
+-----
+
+# 2025-05-25 
+
+- Continued convo with mnos - very close to finishing scene now
+- Started exploring the best way to use to self-hosted email settled on using existing mutt smpt2go set up and adding a subscriber form on website. 
+- as expected, many problems, but learned to extract URL from mutt by using CLI to extract raw html. Or rather I learned it could be done, and now Ai can do it for me (or better yet script it for me, so I can do it myself in the future)
 
 ---
 
@@ -13,6 +21,9 @@
 - Started thinking about having different regions of the garden related to different moods and life stuff - like glade, swamp, forest etc. 
 - Decided that for hard copy I want a single journal for everything not multiple. 
 - iPhone to PC obsidian 2-way sync over local network seems to be working really well. 
+
+----
+
 # 2025-05-23
 
 - Made a good start on outlining the book as far as midpoint. 
